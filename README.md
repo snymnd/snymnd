@@ -1,6 +1,4 @@
 ## Hai, Muhammad Yunus here! (*￣▽￣*)ブ.
-> ### A lie that can't be disproven is no different from the truth. <br>
->  _Kraft Lawrence,_
 
 ### Tech Stack that I use
 
