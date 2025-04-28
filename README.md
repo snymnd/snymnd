@@ -25,11 +25,11 @@
 ### Stats
 <p>
   <a href="https://github.com/snymnd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snymnd&count_private=true&show_icons=true&hide=stars,contribs&hide_rank=true&title_color=8afbfd&icon_color=8afbfd&theme=algolia" />
+  <img height="180em" src="https://my-github-stats-nine.vercel.app/api?username=snymnd&count_private=true&show_icons=true&hide=stars,contribs&hide_rank=true&title_color=8afbfd&icon_color=8afbfd&theme=algolia" />
 </p>
 <p>
   <a href="https://github.com/snymnd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snymnd&layout=compact&title_color=8afbfd&icon_color=8afbfd&theme=algolia" />
+  <img height="180em" src="https://my-github-stats-nine.vercel.app/api/top-langs/?username=snymnd&layout=compact&title_color=8afbfd&icon_color=8afbfd&theme=algolia" />
 </p>
 
 
