@@ -14,6 +14,8 @@
 🍽️ &nbsp;
   ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 🪴 &nbsp;
